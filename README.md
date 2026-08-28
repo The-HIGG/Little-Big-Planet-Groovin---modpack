@@ -5,3 +5,4 @@ So this mod was in the works for a bit since everyone has their own things to do
 
 ![thumbnail](LBPG-thumbnail.png)
 Art made by [PlutO](https://x.com/PlutoniumPlutoO)
+[DOWNLOAD](https://gamebanana.com/mods/710854)
