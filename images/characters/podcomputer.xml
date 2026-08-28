@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="podcomputer.png"><SubTexture name="podcomputer up0000" x="1378" y="502" width="689" height="501" frameX="-17" frameY="-32" frameWidth="721" frameHeight="553" />
+<SubTexture name="podcomputer up0001" x="0" y="1008" width="689" height="501" frameX="-17" frameY="-32" frameWidth="721" frameHeight="553" />
+<SubTexture name="podcomputer up0002" x="689" y="1008" width="689" height="501" frameX="-17" frameY="-32" frameWidth="721" frameHeight="553" />
+<SubTexture name="podcomputer down0000" x="1378" y="1008" width="689" height="501" frameX="-17" frameY="-32" frameWidth="721" frameHeight="553" />
+<SubTexture name="podcomputer down0001" x="0" y="1509" width="689" height="501" frameX="-17" frameY="-32" frameWidth="721" frameHeight="553" />
+<SubTexture name="podcomputer down0002" x="689" y="1008" width="689" height="501" frameX="-17" frameY="-32" frameWidth="721" frameHeight="553" />
+<SubTexture name="podcomputer idle0000" x="689" y="1008" width="689" height="501" frameX="-17" frameY="-32" frameWidth="721" frameHeight="553" />
+<SubTexture name="podcomputer confirm0000" x="0" y="0" width="689" height="504" frameX="-17" frameY="-28" frameWidth="721" frameHeight="553" />
+<SubTexture name="podcomputer confirm0001" x="689" y="0" width="689" height="504" frameX="-17" frameY="-29" frameWidth="721" frameHeight="553" />
+<SubTexture name="podcomputer confirm0002" x="689" y="1509" width="689" height="498" frameX="-17" frameY="-34" frameWidth="721" frameHeight="553" />
+<SubTexture name="podcomputer confirm0003" x="1378" y="0" width="689" height="502" frameX="-17" frameY="-31" frameWidth="721" frameHeight="553" />
+<SubTexture name="podcomputer confirm0004" x="689" y="1008" width="689" height="501" frameX="-17" frameY="-32" frameWidth="721" frameHeight="553" />
+<SubTexture name="podcomputer back0000" x="0" y="504" width="689" height="504" frameX="-17" frameY="-28" frameWidth="721" frameHeight="553" />
+<SubTexture name="podcomputer back0001" x="689" y="504" width="689" height="504" frameX="-17" frameY="-29" frameWidth="721" frameHeight="553" />
+<SubTexture name="podcomputer back0002" x="1378" y="1509" width="689" height="498" frameX="-17" frameY="-34" frameWidth="721" frameHeight="553" />
+<SubTexture name="podcomputer back0003" x="1378" y="0" width="689" height="502" frameX="-17" frameY="-31" frameWidth="721" frameHeight="553" />
+<SubTexture name="podcomputer back0004" x="689" y="1008" width="689" height="501" frameX="-17" frameY="-32" frameWidth="721" frameHeight="553" />
+</TextureAtlas>

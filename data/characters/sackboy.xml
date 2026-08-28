@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-character>
+<character icon="sackboy">
+	<anim name="idle" anim="sackboy idle" fps="12"/>
+	<anim name="singDOWN" anim="sackboy down" fps="12"/>
+	<anim name="singRIGHT" anim="sackboy right" fps="12"/>
+	<anim name="singLEFT" anim="sackboy left" fps="12"/>
+	<anim name="singUP" anim="sackboy up" fps="12"/>
+	<anim name="stare" anim="sackboy stare" x="-97" y="-1" loop="true"/>
+	<anim name="wave" anim="sackboy wave" x="-96" fps="12"/>
+	<anim name="blink" anim="sackboy blink" x="-97" y="-1" fps="12"/>
+</character>

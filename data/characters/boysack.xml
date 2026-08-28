@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<character flipX="true" isPlayer="true" icon="boysack">
+	<anim name="idle" anim="boysack idle" fps="12"/>
+	<anim name="singDOWN" anim="boysack down" fps="12"/>
+	<anim name="singRIGHT" anim="boysack right" fps="12"/>
+	<anim name="singLEFT" anim="boysack left" fps="12"/>
+	<anim name="singUP" anim="boysack up" fps="12"/>
+	<anim name="intro" anim="boysack introHop" x="545" y="36" fps="12"/>
+	<anim name="singDOWNmiss" anim="boysack dmiss" fps="12"/>
+	<anim name="singLEFTmiss" anim="boysack lmiss" fps="12"/>
+	<anim name="singUPmiss" anim="boysack umiss" fps="12"/>
+	<anim name="singRIGHTmiss" anim="boysack rmiss" fps="12"/>
+</character>

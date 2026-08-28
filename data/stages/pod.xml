@@ -1,0 +1,19 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/pod/" name="pod" zoom="0.6" startCamPosX="550" startCamPosY="500">
+	<sprite x="-1260" scroll="0.25" sprite="bg1" y="-720" type="none" name="background"/>
+	<sprite x="-1260" scroll="0.3" sprite="bg2" y="-720" type="none" name="stars-1"/>
+	<sprite x="-1260" scroll="0.6" sprite="bg3" y="-720" type="none" name="stars-2"/>
+	<sprite x="-1260" scroll="0.65" sprite="bg4" y="-820" type="none" name="hanging-stars"/>
+	<sprite x="-1250" scroll="0.74" sprite="bg5" y="-800" type="none" name="planet-profile"/>
+	<sprite x="-1250" scroll="0.74" sprite="bg6" y="-800" type="none" name="moon"/>
+	<sprite x="-1250" scroll="0.83" sprite="bg7" y="-800" type="none" name="planet-earth"/>
+	<sprite x="-1260" sprite="bg8" y="-720" type="none" name="strings"/>
+	<sprite x="-1260" scroll="0.87" sprite="bg9" y="-720" type="none" name="decoration"/>
+	<sprite x="-1260" sprite="bg10" y="-720" type="none" name="cardboard"/>
+	<girlfriend scale="0.85" x="163" scroll="1" y="280"/>
+	<sprite x="-1260" sprite="bg11" y="-720" type="none" name="gf-detail"/>
+	<combo x="577" y="565"/>
+	<dad x="-220" y="560"/>
+	<boyfriend x="735" y="500"/>
+	<sprite x="-1260" sprite="blend" y="-720" type="none" alpha="0.2" name="overlay"/>
+</stage>

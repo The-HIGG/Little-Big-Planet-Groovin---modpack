@@ -1,0 +1,123 @@
+{
+    "name": "Yellow Head BG",
+    "cameraZoom": 0.5,
+    "version": "1.0.0",
+
+    "characters": {
+        "bf": 
+        {
+            "zIndex": 12,
+            "position": [980, 740],
+            "cameraOffsets": [-260, -150],
+            "scroll": [1, 1]
+        },
+        "dad": 
+        {
+            "zIndex": 12,
+            "position": [-120, 760],
+            "cameraOffsets": [260, -150],
+            "scroll": [1, 1]
+        },
+        "gf": 
+        {
+            "zIndex": 11,
+            "position": [420, 760],
+            "cameraOffsets": [0, 0],
+            "scroll": [1, 1]
+        }
+    },
+    "props": 
+    [
+        {
+            "name": "bg1",
+            "assetPath": "stages/yellowhead/bg1",
+            "position": [-1530, -830],
+            "scale": [1, 1],
+            "scroll": [0.2, 0.2],
+            "zIndex": 1
+        },
+        {
+            "name": "bg2",
+            "assetPath": "stages/yellowhead/bg2",
+            "position": [-1530, -860],
+            "scale": [1, 1],
+            "scroll": [0.25, 0.25],
+            "zIndex": 2
+        },
+        {
+            "name": "bg3",
+            "assetPath": "stages/yellowhead/bg3",
+            "position": [-1530, -860],
+            "scale": [1, 1],
+            "scroll": [0.28, 0.28],
+            "zIndex": 3
+        },
+        {
+            "name": "bg4",
+            "assetPath": "stages/yellowhead/bg4",
+            "position": [-1530, -880],
+            "scale": [1, 1],
+            "scroll": [0.35, 0.35],
+            "zIndex": 4
+        },
+        {
+            "name": "bg5",
+            "assetPath": "stages/yellowhead/bg5",
+            "position": [-1530, -930],
+            "scale": [1, 1],
+            "scroll": [0.3, 0.3],
+            "zIndex": 5
+        },
+        {
+            "name": "bg6",
+            "assetPath": "stages/yellowhead/bg6",
+            "position": [-1530, -930],
+            "scale": [1, 1],
+            "scroll": [0.4, 0.4],
+            "zIndex": 6
+        },
+        {
+            "name": "bg7",
+            "assetPath": "stages/yellowhead/bg7",
+            "position": [-1530, -830],
+            "scale": [1, 1],
+            "scroll": [0.5, 0.5],
+            "zIndex": 7
+        },
+        {
+            "name": "bg8",
+            "assetPath": "stages/yellowhead/bg8",
+            "position": [-1530, -830],
+            "scale": [1, 1],
+            "scroll": [0.6, 0.6],
+            "zIndex": 8
+        },
+        {
+            "name": "bg9",
+            "assetPath": "stages/yellowhead/bg9",
+            "position": [-1530, -830],
+            "scale": [1, 1],
+            "scroll": [1, 1],
+            "zIndex": 9
+        },
+        {
+            "name": "overlay1",
+            "assetPath": "stages/yellowhead/overlay1",
+            "position": [-1530, -830],
+            "scale": [1, 1],
+            "scroll": [1.2, 1.2],
+            "zIndex": 13,
+            "blend": "multiply"
+        },
+        {
+            "name": "overlay2",
+            "assetPath": "stages/yellowhead/overlay2",
+            "position": [-1530, -930],
+            "scale": [1, 1],
+            "scroll": [1.2, 1.2],
+            "zIndex": 14,
+            "blend": "add",
+            "alpha": 0.2
+        }
+    ]
+}

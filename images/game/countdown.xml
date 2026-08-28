@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="countdown.png"><SubTexture name="countdown go0000" x="0" y="0" width="317" height="317" frameX="0" frameY="0" frameWidth="317" frameHeight="317" />
+<SubTexture name="countdown go0001" x="317" y="0" width="317" height="317" frameX="0" frameY="0" frameWidth="317" frameHeight="317" />
+<SubTexture name="countdown go0002" x="0" y="317" width="317" height="317" frameX="0" frameY="0" frameWidth="317" frameHeight="317" />
+<SubTexture name="countdown go0003" x="317" y="317" width="317" height="317" frameX="0" frameY="0" frameWidth="317" frameHeight="317" />
+<SubTexture name="countdown go0004" x="317" y="317" width="317" height="317" frameX="0" frameY="0" frameWidth="317" frameHeight="317" />
+<SubTexture name="countdown go0005" x="634" y="0" width="317" height="317" frameX="0" frameY="0" frameWidth="317" frameHeight="317" />
+<SubTexture name="countdown go0006" x="634" y="0" width="317" height="317" frameX="0" frameY="0" frameWidth="317" frameHeight="317" />
+<SubTexture name="countdown go0007" x="634" y="317" width="317" height="317" frameX="0" frameY="0" frameWidth="317" frameHeight="317" />
+<SubTexture name="countdown go0008" x="0" y="634" width="317" height="317" frameX="0" frameY="0" frameWidth="317" frameHeight="317" />
+<SubTexture name="countdown go0009" x="317" y="634" width="317" height="317" frameX="0" frameY="0" frameWidth="317" frameHeight="317" />
+<SubTexture name="countdown go0010" x="634" y="634" width="317" height="317" frameX="0" frameY="0" frameWidth="317" frameHeight="317" />
+<SubTexture name="countdown go0011" x="951" y="0" width="317" height="317" frameX="0" frameY="0" frameWidth="317" frameHeight="317" />
+<SubTexture name="countdown go0012" x="951" y="0" width="317" height="317" frameX="0" frameY="0" frameWidth="317" frameHeight="317" />
+<SubTexture name="countdown go0013" x="951" y="317" width="317" height="317" frameX="0" frameY="0" frameWidth="317" frameHeight="317" />
+<SubTexture name="countdown go0014" x="951" y="634" width="317" height="317" frameX="0" frameY="0" frameWidth="317" frameHeight="317" />
+<SubTexture name="countdown go0015" x="951" y="634" width="317" height="317" frameX="0" frameY="0" frameWidth="317" frameHeight="317" />
+<SubTexture name="countdown go0016" x="0" y="951" width="317" height="317" frameX="0" frameY="0" frameWidth="317" frameHeight="317" />
+<SubTexture name="countdown go0017" x="0" y="951" width="317" height="317" frameX="0" frameY="0" frameWidth="317" frameHeight="317" />
+<SubTexture name="countdown go0018" x="0" y="951" width="317" height="317" frameX="0" frameY="0" frameWidth="317" frameHeight="317" />
+<SubTexture name="countdown go0019" x="0" y="951" width="317" height="317" frameX="0" frameY="0" frameWidth="317" frameHeight="317" />
+<SubTexture name="countdown go0020" x="0" y="951" width="317" height="317" frameX="0" frameY="0" frameWidth="317" frameHeight="317" />
+<SubTexture name="countdown go0021" x="0" y="951" width="317" height="317" frameX="0" frameY="0" frameWidth="317" frameHeight="317" />
+<SubTexture name="countdown go0022" x="0" y="951" width="317" height="317" frameX="0" frameY="0" frameWidth="317" frameHeight="317" />
+<SubTexture name="countdown go0023" x="0" y="951" width="317" height="317" frameX="0" frameY="0" frameWidth="317" frameHeight="317" />
+<SubTexture name="countdown 30000" x="317" y="951" width="317" height="317" frameX="0" frameY="0" frameWidth="317" frameHeight="317" />
+<SubTexture name="countdown 20000" x="634" y="951" width="317" height="317" frameX="0" frameY="0" frameWidth="317" frameHeight="317" />
+<SubTexture name="countdown 10000" x="951" y="951" width="317" height="317" frameX="0" frameY="0" frameWidth="317" frameHeight="317" />
+</TextureAtlas>

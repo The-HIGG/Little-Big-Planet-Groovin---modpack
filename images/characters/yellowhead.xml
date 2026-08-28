@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="yellowhead.png"><SubTexture name="yellowhead idle0000" x="302" y="803" width="307" height="362" frameX="-81" frameY="-54" frameWidth="440" frameHeight="428" />
+<SubTexture name="yellowhead idle0001" x="912" y="803" width="308" height="344" frameX="-91" frameY="-71" frameWidth="440" frameHeight="428" />
+<SubTexture name="yellowhead idle0002" x="609" y="803" width="303" height="349" frameX="-97" frameY="-66" frameWidth="440" frameHeight="428" />
+<SubTexture name="yellowhead idle0003" x="0" y="803" width="302" height="364" frameX="-93" frameY="-51" frameWidth="440" frameHeight="428" />
+<SubTexture name="yellowhead idle0004" x="1053" y="0" width="301" height="387" frameX="-93" frameY="-28" frameWidth="440" frameHeight="428" />
+<SubTexture name="yellowhead idle0005" x="1053" y="0" width="301" height="387" frameX="-93" frameY="-28" frameWidth="440" frameHeight="428" />
+<SubTexture name="yellowhead idle0006" x="1053" y="0" width="301" height="387" frameX="-93" frameY="-28" frameWidth="440" frameHeight="428" />
+<SubTexture name="yellowhead idle0007" x="1053" y="0" width="301" height="387" frameX="-93" frameY="-28" frameWidth="440" frameHeight="428" />
+<SubTexture name="yellowhead left0000" x="0" y="407" width="316" height="396" frameX="-14" frameY="-23" frameWidth="440" frameHeight="428" />
+<SubTexture name="yellowhead left0001" x="316" y="407" width="313" height="395" frameX="-18" frameY="-24" frameWidth="440" frameHeight="428" />
+<SubTexture name="yellowhead down0000" x="0" y="1167" width="347" height="321" frameX="-28" frameY="-97" frameWidth="440" frameHeight="428" />
+<SubTexture name="yellowhead down0001" x="1354" y="0" width="337" height="325" frameX="-27" frameY="-93" frameWidth="440" frameHeight="428" />
+<SubTexture name="yellowhead up0000" x="621" y="0" width="212" height="397" frameX="-107" frameY="-16" frameWidth="440" frameHeight="428" />
+<SubTexture name="yellowhead up0001" x="833" y="0" width="220" height="393" frameX="-108" frameY="-21" frameWidth="440" frameHeight="428" />
+<SubTexture name="yellowhead right0000" x="306" y="0" width="315" height="404" frameX="-112" frameY="-6" frameWidth="440" frameHeight="428" />
+<SubTexture name="yellowhead right0001" x="0" y="0" width="306" height="407" frameX="-110" frameY="-3" frameWidth="440" frameHeight="428" />
+</TextureAtlas>

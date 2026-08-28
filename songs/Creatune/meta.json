@@ -1,0 +1,14 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "sackboy",
+	"difficulties": [
+		"Normal"
+	],
+	"color": "#000000",
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "Creatune",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 122
+}

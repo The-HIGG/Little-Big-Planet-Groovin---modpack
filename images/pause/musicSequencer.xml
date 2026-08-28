@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="musicSequencer.png"><SubTexture name="musicSequencer yellowhead0000" x="0" y="0" width="260" height="181" frameX="-13" frameY="-12" frameWidth="285" frameHeight="202" />
+<SubTexture name="musicSequencer yellowhead0001" x="0" y="0" width="260" height="181" frameX="-13" frameY="-12" frameWidth="285" frameHeight="202" />
+<SubTexture name="musicSequencer yelloheadw0002" x="0" y="0" width="260" height="181" frameX="-13" frameY="-12" frameWidth="285" frameHeight="202" />
+<SubTexture name="musicSequencer yellowhead0003" x="260" y="0" width="260" height="181" frameX="-13" frameY="-12" frameWidth="285" frameHeight="202" />
+<SubTexture name="musicSequencer yellowhead0004" x="260" y="0" width="260" height="181" frameX="-13" frameY="-12" frameWidth="285" frameHeight="202" />
+<SubTexture name="musicSequencer yellowhead0005" x="0" y="181" width="260" height="181" frameX="-13" frameY="-12" frameWidth="285" frameHeight="202" />
+<SubTexture name="musicSequencer yellowhead0006" x="0" y="181" width="260" height="181" frameX="-13" frameY="-12" frameWidth="285" frameHeight="202" />
+<SubTexture name="musicSequencer yellowhead0007" x="0" y="181" width="260" height="181" frameX="-13" frameY="-12" frameWidth="285" frameHeight="202" />
+<SubTexture name="musicSequencer creatune0000" x="260" y="181" width="260" height="181" frameX="-13" frameY="-12" frameWidth="285" frameHeight="202" />
+<SubTexture name="musicSequencer creatune0001" x="260" y="181" width="260" height="181" frameX="-13" frameY="-12" frameWidth="285" frameHeight="202" />
+<SubTexture name="musicSequencer creatune0002" x="260" y="181" width="260" height="181" frameX="-13" frameY="-12" frameWidth="285" frameHeight="202" />
+<SubTexture name="musicSequencer creatune0003" x="520" y="0" width="260" height="181" frameX="-13" frameY="-12" frameWidth="285" frameHeight="202" />
+<SubTexture name="musicSequencer creatune0004" x="520" y="0" width="260" height="181" frameX="-13" frameY="-12" frameWidth="285" frameHeight="202" />
+<SubTexture name="musicSequencer creatune0005" x="520" y="181" width="260" height="181" frameX="-13" frameY="-12" frameWidth="285" frameHeight="202" />
+<SubTexture name="musicSequencer creatune0006" x="520" y="181" width="260" height="181" frameX="-13" frameY="-12" frameWidth="285" frameHeight="202" />
+<SubTexture name="musicSequencer creatune0007" x="520" y="181" width="260" height="181" frameX="-13" frameY="-12" frameWidth="285" frameHeight="202" />
+</TextureAtlas>

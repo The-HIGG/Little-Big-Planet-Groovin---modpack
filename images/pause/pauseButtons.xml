@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pauseButtons.png"><SubTexture name="pauseButtons resume0000" x="406" y="0" width="219" height="53" frameX="-135" frameY="-25" frameWidth="499" frameHeight="98" />
+<SubTexture name="pauseButtons resume0001" x="0" y="369" width="220" height="52" frameX="-134" frameY="-26" frameWidth="499" frameHeight="98" />
+<SubTexture name="pauseButtons resume0002" x="0" y="261" width="219" height="54" frameX="-135" frameY="-24" frameWidth="499" frameHeight="98" />
+<SubTexture name="pauseButtons resume0003" x="0" y="206" width="219" height="55" frameX="-135" frameY="-23" frameWidth="499" frameHeight="98" />
+<SubTexture name="pauseButtons resume0004" x="0" y="206" width="219" height="55" frameX="-135" frameY="-23" frameWidth="499" frameHeight="98" />
+<SubTexture name="pauseButtons resume0005" x="0" y="206" width="219" height="55" frameX="-135" frameY="-23" frameWidth="499" frameHeight="98" />
+<SubTexture name="pauseButtons resume0006" x="0" y="206" width="219" height="55" frameX="-135" frameY="-23" frameWidth="499" frameHeight="98" />
+<SubTexture name="pauseButtons resume0007" x="0" y="206" width="219" height="55" frameX="-135" frameY="-23" frameWidth="499" frameHeight="98" />
+<SubTexture name="pauseButtons retry0000" x="300" y="421" width="304" height="48" frameX="-93" frameY="-31" frameWidth="499" frameHeight="98" />
+<SubTexture name="pauseButtons retry0001" x="0" y="470" width="303" height="48" frameX="-94" frameY="-31" frameWidth="499" frameHeight="98" />
+<SubTexture name="pauseButtons retry0002" x="303" y="470" width="300" height="48" frameX="-97" frameY="-31" frameWidth="499" frameHeight="98" />
+<SubTexture name="pauseButtons retry0003" x="0" y="421" width="300" height="49" frameX="-97" frameY="-30" frameWidth="499" frameHeight="98" />
+<SubTexture name="pauseButtons retry0004" x="220" y="369" width="300" height="52" frameX="-97" frameY="-27" frameWidth="499" frameHeight="98" />
+<SubTexture name="pauseButtons retry0005" x="0" y="518" width="298" height="48" frameX="-99" frameY="-31" frameWidth="499" frameHeight="98" />
+<SubTexture name="pauseButtons retry0006" x="298" y="518" width="304" height="48" frameX="-93" frameY="-31" frameWidth="499" frameHeight="98" />
+<SubTexture name="pauseButtons retry0007" x="300" y="421" width="304" height="48" frameX="-93" frameY="-31" frameWidth="499" frameHeight="98" />
+<SubTexture name="pauseButtons exit0000" x="625" y="0" width="370" height="45" frameX="-56" frameY="-30" frameWidth="499" frameHeight="98" />
+<SubTexture name="pauseButtons exit0001" x="0" y="613" width="371" height="44" frameX="-55" frameY="-32" frameWidth="499" frameHeight="98" />
+<SubTexture name="pauseButtons exit0002" x="0" y="315" width="368" height="54" frameX="-58" frameY="-25" frameWidth="499" frameHeight="98" />
+<SubTexture name="pauseButtons exit0003" x="625" y="90" width="355" height="44" frameX="-71" frameY="-25" frameWidth="499" frameHeight="98" />
+<SubTexture name="pauseButtons exit0004" x="0" y="146" width="363" height="60" frameX="-63" frameY="-23" frameWidth="499" frameHeight="98" />
+<SubTexture name="pauseButtons exit0005" x="0" y="566" width="370" height="47" frameX="-56" frameY="-34" frameWidth="499" frameHeight="98" />
+<SubTexture name="pauseButtons exit0006" x="625" y="45" width="370" height="45" frameX="-56" frameY="-32" frameWidth="499" frameHeight="98" />
+<SubTexture name="pauseButtons exit0007" x="625" y="0" width="370" height="45" frameX="-56" frameY="-30" frameWidth="499" frameHeight="98" />
+<SubTexture name="pauseButtons buttonhover0000" x="0" y="0" width="406" height="73" frameX="-43" frameY="-16" frameWidth="499" frameHeight="98" />
+<SubTexture name="pauseButtons buttonidle0000" x="0" y="73" width="406" height="73" frameX="-43" frameY="-16" frameWidth="499" frameHeight="98" />
+</TextureAtlas>

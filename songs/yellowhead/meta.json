@@ -1,0 +1,14 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "yellowhead",
+	"difficulties": [
+		"Normal"
+	],
+	"color": "#C865C7",
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "Yellowhead",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 120
+}

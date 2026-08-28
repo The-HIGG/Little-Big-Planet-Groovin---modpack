@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-55" y="225" sprite="podcomputer">
+	<anim name="idle" anim="podcomputer idle" fps="12"/>
+	<anim name="joystick-up" anim="podcomputer up" fps="12"/>
+	<anim name="joystick-down" anim="podcomputer down" fps="12"/>
+	<anim name="confirm" anim="podcomputer confirm" fps="12"/>
+	<anim name="cancel" anim="podcomputer back" fps="12"/>
+</character>

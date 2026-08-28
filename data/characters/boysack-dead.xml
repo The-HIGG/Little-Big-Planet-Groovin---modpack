@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="holdtoretry" camx="-250" icon="boysack-dead">
+	<anim name="dead-intro" anim="holdtoretry intro"/>
+	<anim name="dead-transition" anim="holdtoretry intoloop"/>
+	<anim name="dead-loop" anim="holdtoretry loop" loop="true"/>
+	<anim name="pop-intro" anim="holdtoretry idle"/>
+	<anim name="pop-transition" anim="holdtoretry holdpop"/>
+	<anim name="pop-transition-reverse" anim="holdtoretry holdpop"/>
+	<anim name="pop-intro-reverse" anim="holdtoretry idle"/>
+	<anim name="pop" anim="holdtoretry pop"/>
+</character>

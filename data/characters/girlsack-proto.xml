@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-character>
+<character camx="-160" camy="-400" x="-6" y="-81" icon="girlsack" sprite="girlsack">
+	<anim name="danceLeft" anim="girlsack danceLeftalt" fps="12" x="85" y="-75"/>
+	<anim name="danceRight" anim="girlsack danceRightalt" fps="12" x="85" y="-75"/>
+	<anim name="empty" anim="girlsack nogirlidle" x="9" y="958" loop="true"/>
+	<anim name="intro" anim="girlsack introFall" x="9" y="958"/>
+</character>

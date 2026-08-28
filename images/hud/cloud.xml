@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cloud.png"><SubTexture name="cloud loop0000" x="602" y="71" width="600" height="70" frameX="-29" frameY="-27" frameWidth="652" frameHeight="126" />
+<SubTexture name="cloud loop0001" x="0" y="144" width="600" height="71" frameX="-29" frameY="-28" frameWidth="652" frameHeight="126" />
+<SubTexture name="cloud loop0002" x="0" y="0" width="602" height="72" frameX="-25" frameY="-26" frameWidth="652" frameHeight="126" />
+<SubTexture name="cloud loop0003" x="0" y="72" width="602" height="72" frameX="-25" frameY="-27" frameWidth="652" frameHeight="126" />
+<SubTexture name="cloud loop0004" x="0" y="285" width="609" height="69" frameX="-23" frameY="-29" frameWidth="652" frameHeight="126" />
+<SubTexture name="cloud loop0005" x="0" y="215" width="609" height="70" frameX="-23" frameY="-29" frameWidth="652" frameHeight="126" />
+<SubTexture name="cloud loop0006" x="602" y="141" width="607" height="70" frameX="-24" frameY="-30" frameWidth="652" frameHeight="126" />
+<SubTexture name="cloud loop0007" x="602" y="0" width="607" height="71" frameX="-24" frameY="-30" frameWidth="652" frameHeight="126" />
+</TextureAtlas>

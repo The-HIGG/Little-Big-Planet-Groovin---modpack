@@ -1,0 +1,17 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/level/" name="level" zoom="0.5">
+	<sprite x="-1530" scroll="0.2" sprite="bg1" y="-830" type="none" name="bg"/>
+	<sprite x="-1530" scroll="0.25" sprite="bg2" y="-860" type="none" name="bg2"/>
+	<sprite x="-1530" scroll="0.28" sprite="bg3" y="-860" type="none" name="bg3"/>
+	<sprite x="-1530" scroll="0.35" sprite="bg4" y="-880" type="none" name="bg4"/>
+	<sprite x="-1530" scroll="0.3" sprite="5" y="-930" type="none" name="bg5"/>
+	<sprite x="-1530" scroll="0.4" sprite="bg6" y="-930" type="none" name="bg6"/>
+	<sprite x="-1530" scroll="0.5" sprite="bg7" y="-830" type="none" name="bg7"/>
+	<sprite x="-1530" scroll="0.6" sprite="bg8" y="-830" type="none" name="bg8"/>
+	<sprite x="-1530" sprite="bg9" y="-830" type="none" name="bg9"/>
+	<girlfriend scroll="1" x="130" y="0"/>
+	<dad x="-290" y="310"/>
+	<boyfriend camxoffset="-100" camyoffset="100" x="780" y="160"/>
+	<sprite x="-1530" scroll="1.2" sprite="overlay1" y="-830" type="none" name="overlay1"/>
+	<sprite x="-1530" scroll="1.2" sprite="overlay2" y="-830" type="none" name="overlay2" alpha="0.2"/>
+</stage>

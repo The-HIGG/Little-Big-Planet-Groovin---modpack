@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/" name="yelloheadlevel" zoom="0.55">
+	<sprite x="-1340" sprite="bg0" y="-620" type="none" name="sketch"/>
+	<girlfriend x="220" scroll="1" y="72"/>
+	<dad x="-170" y="388"/>
+	<boyfriend x="880" y="228"/>
+</stage>
